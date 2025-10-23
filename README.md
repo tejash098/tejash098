@@ -56,25 +56,6 @@ _Sikkim Manipal Institute of Technology_ — 7.5 CGPA
 
 ---
 
-## Certifications
-- Data Science & Machine Learning — *Manipal University Jaipur*  
-- The Complete 2023 Web Development Bootcamp — *Udemy*  
-- Certificate of Project Completion — *NBPDCL Patna*  
-
----
-
-## Positions of Responsibility
-- **Coordinator (Kaalrav’24)** — Managed and executed event operations at SMIT.  
-- **Team Member (Kaalrav’23)** — Assisted in organizing cultural and technical activities.
-
----
-
-## Achievements
-- Gold Medal — Cricket, SMIT College Sports Tournament (2024)  
-- Silver Medal — Volleyball, SMIT College Sports Tournament (2024)
-
----
-
 ## Interests
 Full-Stack Web Development • Database Design • Machine Learning • Automation • Data Science
 
