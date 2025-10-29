@@ -28,7 +28,7 @@ Welcome to my GitHub portfolio! I'm a developer who blends technical precision w
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejash-singh-892a15233/)
-- 📧 Email: [Email Me](mailto:jaitej123@gmail.com)
+- 📧 [Email Me](mailto:jaitej123@gmail.com)
 
 ---
 
