@@ -1,66 +1,65 @@
-# Tejash Kumar Singh
+# 👋 Hi, I'm Tejash — Python Full Stack & Frontend Developer
 
-**B.Tech Computer Science and Engineering | Sikkim Manipal Institute of Technology**  
-📍 Bhabua, Bihar | 📧 [jaitej123@gmail.com](mailto:jaitej123@gmail.com) | [GitHub](https://github.com/tejash098) | [LinkedIn](https://www.linkedin.com/in/tejash-singh-892a15233/) | [Portfolio](https://tejashpy.vercel.app/)
-
----
-
-## About Me
-Detail-oriented and enthusiastic Computer Science graduate with hands-on experience in Python full-stack and web development.  
-Skilled in building responsive web applications, developing relational databases, and implementing data-driven solutions.  
-Adaptable, quick learner, and passionate about solving real-world problems with technology.
+Welcome to my GitHub portfolio! I'm a developer who blends technical precision with creative flair. I specialize in building polished, user-centric web applications using Python, Django, React, and modern frontend technologies. I also create beginner-friendly programming tutorials on YouTube to help others learn and grow.
 
 ---
 
-## Technical Skills
-**Programming:** Python  
-**Scripting:** JavaScript, HTML, CSS  
-**Databases:** Oracle SQL, PL/SQL, MySQL  
-**Tools & Platforms:** Git, VS Code  
-**Operating Systems:** Windows, Linux
+## 🚀 What I Do
+
+- 🔧 **Full Stack Development**: Python, Django, Oracle SQL, REST APIs
+- 🎨 **Frontend Engineering**: React, HTML, CSS, JavaScript, UI/UX design
+- 🧠 **Database Design**: SQLite, PostgreSQL, schema optimization, type hints
+- 📦 **Workflow Automation**: AI tools, scripting, and productivity hacks
+- 📚 **Educational Content**: YouTube tutorials, beginner-friendly code breakdowns
 
 ---
 
-## Projects
+## 📂 Featured Projects
 
-### City-wide Survey System for NBPDCL Operational Planning (2025)
-Developed a full-stack role-based survey management system using React, Node.js, and MySQL.  
-Implemented JWT authentication and relational schema optimization for city-wise assignments and approval workflows.  
-**Tech Stack:** React, Node.js, Express, MySQL, JWT  
-
-### Credit Card Fraud Detection (2024)
-Applied machine learning algorithms to detect fraudulent credit card transactions with high accuracy.  
-**Tech Stack:** Python, Scikit-learn, Pandas, NumPy  
-
-### Sentiment Analysis Dashboard (2024)
-Built a dashboard to analyze text sentiments using Natural Language Processing (NLP) and ML models.  
-**Tech Stack:** Python, Flask, NLP, Matplotlib  
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Portfolio Website** | A responsive, branded personal site showcasing my work and resume | React, Tailwind CSS, Vite |
+| **Expense Tracker App** | A full-stack app to log, filter, and visualize expenses | Django, SQLite, Chart.js |
+| **Diamond Pattern Generator** | A YouTube tutorial series for beginners learning Python loops | Python, YouTube |
+| **UI Component Library** *(WIP)* | Custom reusable components for rapid frontend development | React, Styled Components |
 
 ---
 
-## Internship
+## 🎥 YouTube Channel
 
-**Web Development Intern — NBPDCL, Patna (Jan 2025 – May 2025)**  
-- Designed and implemented MySQL schemas for user, survey, and city management.  
-- Developed SQL queries and stored procedures for role-based access and data validation.  
-- Integrated backend logic (Node.js) with a React frontend for seamless data management.
+I create beginner-friendly tutorials that break down complex topics into simple, visual steps. My first series covers **pattern programming in Python**, starting with diamond shapes.
 
----
-
-## Education
-**B.Tech, Computer Science and Engineering (2025)**  
-_Sikkim Manipal Institute of Technology_ — 7.5 CGPA  
-
-**Class XII (CBSE, 2021):** 90% — The Aryan International School  
-**Class X (CBSE, 2019):** 89.2% — The Aryan International School  
+📺 [Visit My Channel](https://www.youtube.com/@tejashdev) *(link placeholder)*
 
 ---
 
-## Interests
-Full-Stack Web Development • Database Design • Machine Learning • Automation • Data Science
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tejashdev) *(link placeholder)*
+- 🐦 [Twitter](https://twitter.com/tejashdev) *(link placeholder)*
+- 📧 Email: tejash.dev@example.com *(replace with actual)*
 
 ---
 
-### Let's Connect
-I’m open to collaboration, internships, and full-time opportunities in software and web development.  
-📩 Reach out at [jaitej123@gmail.com](mailto:jaitej123@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/tejash-singh-892a15233/).
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🧭 Goals
+
+- 🎯 Apply for Python Full Stack & Frontend Developer roles
+- 🧱 Build standout projects with branded, professional presentation
+- 📹 Grow my YouTube channel with educational content
+- 🧠 Share knowledge and help others learn through code
+
+---
+
+Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.
