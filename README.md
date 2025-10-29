@@ -25,19 +25,10 @@ Welcome to my GitHub portfolio! I'm a developer who blends technical precision w
 
 ---
 
-## 🎥 YouTube Channel
-
-I create beginner-friendly tutorials that break down complex topics into simple, visual steps. My first series covers **pattern programming in Python**, starting with diamond shapes.
-
-📺 [Visit My Channel](https://www.youtube.com/@tejashdev) *(link placeholder)*
-
----
-
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tejashdev) *(link placeholder)*
-- 🐦 [Twitter](https://twitter.com/tejashdev) *(link placeholder)*
-- 📧 Email: tejash.dev@example.com *(replace with actual)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/tejash-singh-892a15233/)
+- 📧 Email: (mailto:jaitej123@gmail.com)
 
 ---
 
