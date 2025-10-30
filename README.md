@@ -18,10 +18,8 @@ Welcome to my GitHub portfolio! I'm a developer who blends technical precision w
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Portfolio Website** | A responsive, branded personal site showcasing my work and resume | React, Tailwind CSS, Vite |
+| **Portfolio Website** | A responsive, branded personal site showcasing my work and resume | HTML, CSS, JS |
 | **Expense Tracker App** | A full-stack app to log, filter, and visualize expenses | Django, SQLite, Chart.js |
-| **Diamond Pattern Generator** | A YouTube tutorial series for beginners learning Python loops | Python, YouTube |
-| **UI Component Library** *(WIP)* | Custom reusable components for rapid frontend development | React, Styled Components |
 
 ---
 
