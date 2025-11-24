@@ -19,7 +19,7 @@ Welcome to my GitHub portfolio! I'm a developer who blends technical precision w
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **Portfolio Website** | A responsive, branded personal site showcasing my work and resume | HTML, CSS, JS |
-| **Expense Tracker App** | A full-stack app to log, filter, and visualize expenses | Django, SQLite, Chart.js |
+| **Expense Tracker App** | A full-stack app to log, filter, and visualize expenses | React |
 
 ---
 
@@ -46,7 +46,6 @@ Welcome to my GitHub portfolio! I'm a developer who blends technical precision w
 
 - 🎯 Apply for Python Full Stack & Frontend Developer roles
 - 🧱 Build standout projects with branded, professional presentation
-- 📹 Grow my YouTube channel with educational content
 - 🧠 Share knowledge and help others learn through code
 
 ---
